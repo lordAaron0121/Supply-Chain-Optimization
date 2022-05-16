@@ -17,5 +17,8 @@ In the notebook, I used a simple methodology: Integer Linear Programming to answ
 - Outbound Transportation Costs from the DCs to the final customers *($/Carton)*
 - Customer Demand *(Carton)*
 
+## References
+- Computational Infrastructure for Operations Research, Optimization with PuLP (Documentation)
+
 ## About me 😎
 Data Science and Artificial Intelligence Sophomore aspired to be an analyst and interested in the logistics and supply chain industry.
