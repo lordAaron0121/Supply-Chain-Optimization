@@ -41,5 +41,8 @@ Notations:
 ## Dataset
 This analysis is based on the M5 Forecasting dataset of Walmart stores sales record [(Link)](https://www.kaggle.com/c/m5-forecasting-accuracy)
 
+## References
+- Supply Chain Science, Wallace J.Hopp
+
 ## About me 😎
 Data Science and Artificial Intelligence Sophomore aspired to be an analyst and interested in the logistics and supply chain industry.
