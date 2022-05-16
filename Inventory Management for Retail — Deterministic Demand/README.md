@@ -5,7 +5,7 @@ Considering the distribution of the demand, the objective is to build a replenis
 - **Holding Costs**: costs required to hold your inventory (storage, insurance, and capital costs) *(Unit: Euros/unit x time)*
 - **Shortage/Stock-out Costs**: the costs of not having enough inventory to meet the customer demand (Lost Sales/Penalty) *(Unit: Euros/Unit)*
 
-## ![alt text](https://github.com/[lordAaron0121]/[Supply Chain Optimization]/blob/[branch]/image.jpg?raw=true)
+![](images/pic1.jpg)
 
 <a id = 'problem statement'></a>
 ## Problem Statement
