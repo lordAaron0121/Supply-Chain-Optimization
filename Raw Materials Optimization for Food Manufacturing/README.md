@@ -11,7 +11,7 @@ These ingredients have different nutrition facts different costs per gram.
 ![](pic3.png)
 
 ## Objective
-Minimize the total cost per bar (weight: 120g)
+Minimize the total cost and maximize the nutritions by using linear programming
 
 ## Example Combination of Constraints
 Minimal values for protein and fibre
