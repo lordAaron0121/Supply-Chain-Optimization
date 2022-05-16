@@ -13,7 +13,7 @@ These ingredients have different nutrition facts different costs per gram.
 ## Objective
 Minimize the total cost per bar (weight: 120g)
 
-## Constraints
+## Example Combination of Constraints
 Minimal values for protein and fibre
 - Protein: 20g
 - Fibre: 6g
