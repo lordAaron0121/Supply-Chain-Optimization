@@ -1,4 +1,4 @@
-# Excel Automation using Python 🌎
+# Excel Automation using Python ✌️
 Running scripts on computers without prior knowledge of python is the first step in promoting Python automation.
 
 ## Problem Statement
