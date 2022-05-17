@@ -1,15 +1,15 @@
 # Automate Accounting Tasks using Python 🐍
 Build solutions to automate repetitive tasks for Financial Audits to improve finance colleagues' productivity.
 
-## Problem Statement
+## Problem Statement ❓
 Imagine working as an analyst for a logistics company and the Finance Team requests your support to build a model to predict the P&L of the warehouse operations. <br>
 ![](MonthlyCostReport.png)
 
-## Objective
+## Objective 🎯
 Build a tool that will automatically extract data from each of these 720 Excel files, format it and combine everything in one report. <br>
 ![](report%20for%20audits.png)
 
-## Solution
+## Solution ⚗️
 A python script that will:
 1. Open every Excel report located in a folder
 2. Process and clean data
