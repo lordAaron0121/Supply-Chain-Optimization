@@ -10,6 +10,9 @@ Design a Python script to perform data processing, create a pivot table of month
 ## Dataset
 This notebook uses a dataset from the Kaggle challenge: [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only/data?select=train.csv)
 
+### Still working on: ⚠️
+- Creating the .exe file from .py script
+
 ## References
 - Kaggle Dataset, Store Item Demand Forecasting Challenge
 
