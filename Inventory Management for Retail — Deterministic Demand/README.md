@@ -41,6 +41,9 @@ Notations:
 ## Dataset
 This analysis is based on the M5 Forecasting dataset of Walmart stores sales record [(Link)](https://www.kaggle.com/c/m5-forecasting-accuracy)
 
+### Still working on ⚠️
+- Real-Time visualization of Cost of Goods Sold (COGS)
+
 ## References
 - Supply Chain Science, Wallace J.Hopp
 
