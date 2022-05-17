@@ -9,3 +9,4 @@
 
 ## Supply Chain Transactional Processes Automation (RPA) 🤖
 - Use Python to Design Automation Tools for Excel Users: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Excel%20Automation)
+- Automate Accounting Tasks using Python: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Automate%20Accounting%20Tasks)
