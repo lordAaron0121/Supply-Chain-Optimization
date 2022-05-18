@@ -1,4 +1,4 @@
-# Supply Chain Projects <img src="[https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white](https://www.flaticon.com/free-icons/truck" title="truck icons")"/>&nbsp; 
+# Supply Chain Projects 
     
 ## Inventory Management for Retail 🛒
 - Inventory Management for Retail — Deterministic Demand: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand)
