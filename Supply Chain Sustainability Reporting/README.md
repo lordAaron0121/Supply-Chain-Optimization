@@ -22,6 +22,9 @@ In this project we will focus on the 3rd scopes calculations related to downstre
 3. Add distances by mode and compute the CO2 emissions by order.
 4. Visualize using PowerBI
 
+## Tableau dashboard 
+Please visit this link to view the dashboard: [Tableau Link](https://public.tableau.com/views/SupplyChainCO2emission/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## References
 - GHG Protocol corporate standard, Greenhouse Gas Protocol
 - French Environmental Agency Ademe, Bilan GES
