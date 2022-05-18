@@ -17,6 +17,11 @@ For each warehouse, the manager lists all projects that need capital. In the app
 - Operational excellence
 ![](123.png)
 
+## Idea
+I will build 2 models, each for different purposes:
+1. Maximize ROI
+2. Management Guidelines
+
 ## References
 - Computational Infrastructure for Operations Research, Optimization with PuLP
 
