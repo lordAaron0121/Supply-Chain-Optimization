@@ -13,8 +13,14 @@ There are 3 scopes of greenhouse gas emissions:
 In this project we will focus on the 3rd scopes calculations related to downstream transportation.
 
 #### Formula to estimate the CO2 emissions of transportation
-
+![](equation.png)
 > This formula provides a gross estimation of the CO2 emissions. 
+
+### Objective 🎯
+1. Collect and process data to calculate the emissions.
+2. Calculate the unit of measure conversions considering the shipped handling units.
+3. Add distances by mode and compute the CO2 emissions by order.
+4. Visualize using PowerBI
 
 ## References
 - GHG Protocol corporate standard, Greenhouse Gas Protocol
