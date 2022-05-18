@@ -3,17 +3,19 @@ Companies need to invest in IT capabilities, equipment or warehouse space to imp
 
 ## Problem Statement
 Because of budget constraints, they need to decide for which projects the organization will allocate resources.
-
+ 
 ## Objective
-In this project, I will design a linear programming model with Python to automate this decision-making process considering:
-- return on investment of each project after 3 years
-- total costs per year
-- budget limits per year
+In this project, I will design a linear programming model with Python to automate this decision-making process.
+For each warehouse, the manager lists all projects that need capital. In the application form, information that can help justify this investment are:
+- Which customer will be benefitted?
+- What is the estimated cost per year?
+- What is the estimated ROI after 3 years?
 
 ## Management guidelines
 - Sustainable development
 - Digital transformation
 - Operational excellence
+![](123.png)
 
 ## References
 - Computational Infrastructure for Operations Research, Optimization with PuLP
