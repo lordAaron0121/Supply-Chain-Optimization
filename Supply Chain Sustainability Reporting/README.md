@@ -13,11 +13,7 @@ There are 3 scopes of greenhouse gas emissions:
 In this project we will focus on the 3rd scopes calculations related to downstream transportation.
 
 #### Formula to estimate the CO2 emissions of transportation
-$E_{CO2} = W_{goods} * D * F_{mode}$
-E_CO2: Emissions in kilograms of CO2
-W_goods: weight of the goods
-D: distance from warehouse to final destination
-F_mode: emissions factor for each transportation mode 
+
 > This formula provides a gross estimation of the CO2 emissions. 
 
 ## References
