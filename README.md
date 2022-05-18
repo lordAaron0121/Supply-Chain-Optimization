@@ -23,3 +23,6 @@
     
 ### Supply Chain Sustainability 🌲
 - Supply Chain Sustainability Reporting with Python: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Supply%20Chain%20Sustainability%20Reporting)
+
+#### References 🥰
+- [Samir Saci's personal website](https://www.samirsaci.com/)
