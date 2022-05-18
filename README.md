@@ -1,10 +1,11 @@
 <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="50"
+    height="50"
     src="supply-chain.png"
   >
 </p>
+
 # Supply Chain Projects 
     
 ## Inventory Management for Retail 🛒
