@@ -1,4 +1,4 @@
-# Product segmentation for Retail🍔
+# Product segmentation with Statistics for Retail🍔
 Product segmentation refers to the activity of grouping products that have similar characteristics and serve a similar market. 
 In logistics, our attention is mainly focused on the sales volumes distribution, demand variability and delivery lead time.
 
