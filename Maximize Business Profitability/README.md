@@ -9,7 +9,7 @@ A local bakery sells several types of cakes, pastries, and sandwiches.
 - 100 slots available for stock and display
 Each item has different resource needs and profit.
 
-![](bakery%20items.jpg)
+![](bakery%20items.png)
 
 ## Objective
 Use linear programming to select the right items to sell in order to improve the business profitability.
