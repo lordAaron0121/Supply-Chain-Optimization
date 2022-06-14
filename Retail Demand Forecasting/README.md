@@ -7,7 +7,9 @@ The potential optimization can reduce operational costs by:
 - replenishment optimization: minimize replenishment quantity per order between warehouses and stores (warehousing & transportation costs)
 
 ## Objective 🎯
-We will do feature engineering before we start the forecasting. 
+Demand planning using 2 approaches:
+1. Rolling mean on historical data
+2. XGBoost ML model
 
 ## Dataset 
 This notebook uses a dataset from the Kaggle challenge: [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)
