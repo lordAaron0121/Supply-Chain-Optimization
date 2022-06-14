@@ -34,5 +34,5 @@
 - Improve Warehouse Productivity using Pathfinding Algorithm with Python: [Github Repository]() (Incomplete) ‼️
 - Reduce Warehouse Space with the Pareto Principle using Python: [Github Repository]()
 
-### References 🥰
+### Reference & Inspiration 🥰
 - [Samir Saci's personal website](https://www.samirsaci.com/)
