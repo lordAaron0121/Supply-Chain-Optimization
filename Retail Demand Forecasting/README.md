@@ -18,7 +18,7 @@ This notebook uses a dataset from the Kaggle challenge: [Store Item Demand Forec
 - Store Item Demand Forecasting Challenge (Kaggle)
 
 ## Next steps
-- Store Delivery Scheduling: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/blob/main/Store%20Delivery%20Scheduling/README.md)
+- Store Delivery Scheduling: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Store%20Delivery%20Scheduling)
 
 ## About me 😎
 Data Science and Artificial Intelligence Sophomore aspired to be an analyst and interested in the logistics and supply chain industry.
