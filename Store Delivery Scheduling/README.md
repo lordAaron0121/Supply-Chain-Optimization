@@ -15,7 +15,7 @@ Design an algorithm that measures the inventory level before store opens (10 AM)
 Design replenishment strategies to optimize inventory and reduce number of deliveries from the warehouse. It will be evaluated on its accuracy of estimating the replenishment quantity to reach inventory target day n+2. Inventory optimization: reach the lowest value possible without inventory shortage incidents and reducing replenishment frequency at the same time.<br>
 1. Day n-1: Order replenisments
 2. Day n: Receive shipments at the end of the day
-3. Day n+1: Inventory level inherited from day n isn't enuogh to meet day n+2 demand before shipments arrive at the end of the day (inventory shortage)
+3. Day n+1: Ensure inventory level inherited from day n is enuogh to meet day n+2 demand before shipments arrive at the end of the day (prevent inventory shortage)
 
 ## Dataset 
 This notebook uses a dataset from the Kaggle challenge: [Store Item Demand Forecasting Challenge](https://www.kaggle.com/c/demand-forecasting-kernels-only)
