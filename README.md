@@ -29,7 +29,7 @@
 - Supply Chain Sustainability Reporting with Python: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Supply%20Chain%20Sustainability%20Reporting)
 
 ### Logistics Continuous Improvement 🧑‍💼
-- Improve Warehouse Productivity using Order Batching with Python: [Github Repository]()
+- Improve Warehouse Productivity using Order Batching with Python: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Order%20Batching) (Incomplete) ‼️
 - Improve Warehouse Productivity using Spatial Clustering with Python: [Github Repository]()
 - Improve Warehouse Productivity using Pathfinding Algorithm with Python: [Github Repository]()
 - Reduce Warehouse Space with the Pareto Principle using Python: [Github Repository]()
