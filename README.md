@@ -33,7 +33,6 @@
 - Improve Warehouse Productivity using Spatial Clustering with Python: [Github Repository]()
 - Improve Warehouse Productivity using Pathfinding Algorithm with Python: [Github Repository]()
 - Reduce Warehouse Space with the Pareto Principle using Python: [Github Repository]()
-- Product Segmentation for Retail with Python: [Github Repository]()
 
 ### References 🥰
 - [Samir Saci's personal website](https://www.samirsaci.com/)
