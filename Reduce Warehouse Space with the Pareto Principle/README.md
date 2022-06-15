@@ -5,6 +5,8 @@ An Italian economist named Vilfredo Pareto developed 1906 a mathematical formula
     src="Pareto.jpg"
   >
 </p>
+<br>
+
 ## Objective 🎯
 How the 80/20 rule implemented using python can optimize your layout, reduce space utilization and improve the picking productivity. When translated intto logistic:
 - 80% of your company revenue is made from 20% of your reference
