@@ -32,7 +32,7 @@
 - Improve Warehouse Productivity using Order Batching with Python: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Order%20Batching) (Incomplete) ‼️
 - Improve Warehouse Productivity using Spatial Clustering with Python: [Github Repository]() (Incomplete) ‼️
 - Improve Warehouse Productivity using Pathfinding Algorithm with Python: [Github Repository]() (Incomplete) ‼️
-- Reduce Warehouse Space with the Pareto Principle using Python: [Github Repository]()
+- Reduce Warehouse Space with the Pareto Principle using Python: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Reduce%20Warehouse%20Space%20with%20the%20Pareto%20Principle)
 
 ### Reference & Inspiration 🥰
 - [Samir Saci's personal website](https://www.samirsaci.com/)
