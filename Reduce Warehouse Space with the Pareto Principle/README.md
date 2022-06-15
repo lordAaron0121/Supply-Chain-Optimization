@@ -13,6 +13,10 @@ How the 80/20 rule implemented using python can optimize your layout, reduce spa
 - 80% of your volume is picked in 20% of your picking locations
 - 80% of your replenishment volume will be performed on 20% of your picking locations
 
+## Next chapter 👣
+- Improve Warehouse Productivity using Spatial Clustering with Python: [Github Repository]() (Incomplete) ‼️
+
+
 ## References
 - Kaggle Dataset, Store Item Demand Forecasting Challenge
 
