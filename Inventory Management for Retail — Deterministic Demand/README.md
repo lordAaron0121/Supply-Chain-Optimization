@@ -8,7 +8,7 @@ Considering the distribution of the demand, the objective is to build a replenis
 ![](pic1.jpg)
 
 <a id = 'problem statement'></a>
-## Problem Statement
+## Problem Statement ❓
 As an Inventory Manager of a mid-size retail chain, I am in charge of setting the replenishment quantity in the enterprise resource planning (ERP). The store manager reported that our stores are losing sales due to stock-outs. For each stock-keeping unit (SKU), I build a simple simulation model to test several inventory rules and estimate the impact on:
 - **Total Costs**: how much does it cost to receive, store and sell this product?
 - **Shortages**: what is the percentage of lost sales due to stock-out?
@@ -32,7 +32,7 @@ Notations:
 - **Replenishment orders per year**: $$N = \frac{1}{T}$$
 - **Inventory on hand at each**: IOH
 ---
-## Objective
+## Objective 🎯
 1. Visualize the current rule used by the store manager
 2. Calculate the **EOQ** and simulate the impact
 3. Visualize the impact of **lead time** between ordering and receiving
