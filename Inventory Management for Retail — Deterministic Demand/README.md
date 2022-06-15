@@ -44,8 +44,8 @@ This analysis is based on the M5 Forecasting dataset of Walmart stores sales rec
 ### Still working on ⚠️
 - Real-Time visualization of Cost of Goods Sold (COGS)
 
-## References
-- Supply Chain Science, Wallace J.Hopp
+## References and Inspiration
+- [StrataScratch YouTube Channel] (https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)
 
 ## About me 😎
 Data Science and Artificial Intelligence Sophomore aspired to be an analyst and interested in the logistics and supply chain industry.
