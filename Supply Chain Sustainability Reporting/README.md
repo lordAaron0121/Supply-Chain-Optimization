@@ -20,7 +20,7 @@ In this project we will focus on the 3rd scopes calculations related to downstre
 1. Collect and process data to calculate the emissions.
 2. Calculate the unit of measure conversions considering the shipped handling units.
 3. Add distances by mode and compute the CO2 emissions by order.
-4. Visualize using PowerBI
+4. Visualize using Tableau
 
 ## Tableau dashboard 
 Please visit this link to view the dashboard: [Tableau Link](https://public.tableau.com/views/SupplyChainCO2emission/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
