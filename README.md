@@ -10,7 +10,7 @@
 </h2>
 
 ### Supply Chain Optimization 🛒
-- Inventory Management for Retail — Deterministic Demand: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand)
+- Inventory Management for Retail — Deterministic Demand: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Inventory%20Management%20for%20Retail%20%E2%80%94%20Deterministic%20Demand) (Incomplete) ‼️
 - Product Segmentation with Statistics for Retail: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Product%20segmentation%20for%20Retail)
 - Machine Learning for Retail Demand Forecasting: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Retail%20Demand%20Forecasting) (Incomplete) ‼️
 - Machine Learning for Store Delivery Scheduling: [Github Repository](https://github.com/lordAaron0121/Supply-Chain-Optimization/tree/main/Store%20Delivery%20Scheduling) (Incomplete) ‼️
