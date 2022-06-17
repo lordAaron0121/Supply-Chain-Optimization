@@ -12,7 +12,7 @@ As a data scientist, we work with different types of data and other departments 
 - Automate the above tasks using for-loops
 - Able to handle multiple files 
 - Requirements ⚠️:
-1. CSV files are places in the same directory as the notebook
+1. CSV files are placed in the same directory as the notebook
 2. Create the database manually before running the notebook
 
 ## References and Inspiration
