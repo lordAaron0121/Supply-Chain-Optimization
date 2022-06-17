@@ -8,7 +8,7 @@ Oftentimes, we are given feedbacks that the distribution costs are too high. Thi
 
 ## Problem Statement
 The goal is to balance supply and demand in a manner to ensure the best service level at the lowest cost.
-![](pic4.png)
+![](pic4.png) <br>
 Which Plant i and Distribution n should I choose to produce and deliver 100 units to Store p at the lowest cost?
 
 ## Objective
